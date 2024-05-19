@@ -1,2 +1,4 @@
 Q1. Python
 Ans: ABC
+
+Q2. 
